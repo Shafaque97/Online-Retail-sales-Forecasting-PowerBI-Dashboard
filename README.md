@@ -61,7 +61,7 @@ ______
 # Repository structure
     -     Data -
     -     Dashboard - [link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard)
-    -     Image -
+    -     Image -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20dashboard%20image.png)
 
 
 ______
