@@ -40,6 +40,7 @@
 	•	At a granular level, Phones are the most sold sub-category ($0.20M), and Binders have the least ($0.17M).
     7.     California recorded the highest sales among all regions. 
     8.     Additionally, a 15-day sales forecast has been generated to project upcoming trends.
+
   
 ⸻
 
@@ -53,3 +54,17 @@
 
     - This dashboard serves as a decision-making tool for optimizing inventory, improving shipping logistics,   
     targeting marketing efforts, and identifying growth opportunities.
+
+
+______
+
+# Repository structure
+    -     Data -
+    -     Dashboard -
+    -     Image -
+
+
+______
+
+# Feedback & Collaboration
+    -     Your feedback is welcome! If you'd like to collaborate on similar projects, feel free to reach out.
