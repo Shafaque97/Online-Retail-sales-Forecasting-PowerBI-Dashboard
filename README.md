@@ -1,6 +1,9 @@
 # Online-Retail-sales-Forecasting-PowerBI-Dashboard
-    This project is an interactive Power BI dashboard designed to analyze and forecast online retail sales performance. It leverages sales data to identify trends, track key performance indicators (KPIs), and provide actionable insights for decision-making.
-    This project involves the creation of dashboard related to sales, profit, quantity, customer behavior, and shipping metrics. The dashboard offers a comprehensive overview of retail business performance over time, helping stakeholders make data-driven decisions. It includes interactive visualizations such as donut charts, bar charts, and line graphs to compare performance by segment, region, category, payment mode, shipping mode, and monthly trends.
+    This project is an interactive Power BI dashboard designed to analyze and forecast online retail sales performance.  
+    It leverages sales data to identify trends, track key performance indicators (KPIs), and provide actionable insights for decision-making.
+    This project involves the creation of dashboard related to sales, profit, quantity, customer behavior, and shipping metrics.  
+    The dashboard offers a comprehensive overview of retail business performance over time, helping stakeholders make data-driven decisions.  
+    It includes interactive visualizations such as donut charts, bar charts, and line graphs to compare performance by segment, region, category, payment mode, shipping mode, and monthly trends.
 
 ⸻
 
@@ -44,4 +47,5 @@
 	•	September to December is a critical sales and profit window.
 	•	Product and category-specific insights help prioritize inventory and marketing.
 
-    This dashboard serves as a decision-making tool for optimizing inventory, improving shipping logistics, targeting marketing efforts, and identifying growth opportunities.
+    This dashboard serves as a decision-making tool for optimizing inventory, improving shipping logistics, targeting marketing efforts,  
+    and identifying growth opportunities.
