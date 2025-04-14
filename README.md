@@ -18,7 +18,7 @@ This project involves the creation of dashboard related to sales, profit, quanti
 	•	Home Office is the least contributing at 19%, indicating potential for targeted marketing.
 	2.	Payment Behavior:
 	•	Cash on Delivery (COD) is the most preferred payment mode (43%), while card payments are least used (22%).
-        •       This could hint at trust factors or demographics of the buyer population.
+        •This could hint at trust factors or demographics of the buyer population.
 	3.	Regional Sales Distribution:
 	•	Western Region leads with 33% of total sales.
 	•	Southern Region lags with only 16%, suggesting scope for growth in the South.
@@ -31,8 +31,8 @@ This project involves the creation of dashboard related to sales, profit, quanti
 	6.	Category & Sub-Category Sales:
 	•	Office Supplies top the sales by category ($0.64M), while Furniture lags behind ($0.45M).
 	•	At a granular level, Phones are the most sold sub-category ($0.20M), and Binders have the least ($0.17M).
-        7.      California recorded the highest sales among all regions. 
-        8.      Additionally, a 15-day sales forecast has been generated to project upcoming trends.
+        7.California recorded the highest sales among all regions. 
+        8.Additionally, a 15-day sales forecast has been generated to project upcoming trends.
   
 ⸻
 
