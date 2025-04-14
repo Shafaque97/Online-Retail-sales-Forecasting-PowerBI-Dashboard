@@ -1,6 +1,6 @@
 # Online-Retail-sales-Forecasting-PowerBI-Dashboard
-This project is an interactive Power BI dashboard designed to analyze and forecast online retail sales performance. It leverages sales data to identify trends, track key performance indicators (KPIs), and provide actionable insights for decision-making.
-This project involves the creation of dashboard related to sales, profit, quantity, customer behavior, and shipping metrics. The dashboard offers a comprehensive overview of retail business performance over time, helping stakeholders make data-driven decisions. It includes interactive visualizations such as donut charts, bar charts, and line graphs to compare performance by segment, region, category, payment mode, shipping mode, and monthly trends.
+    This project is an interactive Power BI dashboard designed to analyze and forecast online retail sales performance. It leverages sales data to identify trends, track key performance indicators (KPIs), and provide actionable insights for decision-making.
+    This project involves the creation of dashboard related to sales, profit, quantity, customer behavior, and shipping metrics. The dashboard offers a comprehensive overview of retail business performance over time, helping stakeholders make data-driven decisions. It includes interactive visualizations such as donut charts, bar charts, and line graphs to compare performance by segment, region, category, payment mode, shipping mode, and monthly trends.
 
 ⸻
 
@@ -31,8 +31,8 @@ This project involves the creation of dashboard related to sales, profit, quanti
 	6.	Category & Sub-Category Sales:
 	•	Office Supplies top the sales by category ($0.64M), while Furniture lags behind ($0.45M).
 	•	At a granular level, Phones are the most sold sub-category ($0.20M), and Binders have the least ($0.17M).
- 7.     California recorded the highest sales among all regions. 
- 8.     Additionally, a 15-day sales forecast has been generated to project upcoming trends.
+    7.     California recorded the highest sales among all regions. 
+    8.     Additionally, a 15-day sales forecast has been generated to project upcoming trends.
   
 ⸻
 
